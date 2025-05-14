@@ -26,6 +26,9 @@ console.log(isNaN("trhhf"));
 // math method
 console.log(Math.PI);
 console.log(Math.PI.toFixed(2));
+console.log(Math.pow(5,2));
+console.log(Math.abs(-2));
+
 
 
 // functions
