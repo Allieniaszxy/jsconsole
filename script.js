@@ -28,7 +28,8 @@ console.log(Math.PI);
 console.log(Math.PI.toFixed(2));
 console.log(Math.pow(5,2));
 console.log(Math.abs(-2));
-
+console.log(Math.sqrt(12));
+console.log(Math.floor(24.54))
 
 
 // functions
